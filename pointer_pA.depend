@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1661168478 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p1_basic_declaration.c
+	<stdio.h>
+
+1661168688 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p2_add_two_num.c
+	<stdio.h>
+
+1661168843 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p3_adding_using_call_refference.c
+	<stdio.h>
+
+1661169057 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p4_maximum_num.c
+	<stdio.h>
+
+1661169703 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p5_array_element.c
+	<stdio.h>
+
+1661188071 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p6_lengthg_string.c
+	<stdio.h>
+
+1661172276 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\test.c
+	<stdio.h>
+
+1661234975 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p7_swap.c
+	<stdio.h>
+
+1661183740 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p8_factorial.c
+	<stdio.h>
+
+1661184423 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p9_sort.c
+	<stdio.h>
+
+1661184878 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p10_sum_array.c
+	<stdio.h>
+
+1661185457 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p11_reverse_order.c
+	<stdio.h>
+
+1661399898 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p12_string_reverse.c
+	<stdio.h>
+
+1661186549 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p13_smallest_num.c
+	<stdio.h>
+
+1661186630 source:c:\users\sahana shivu\documents\hemanth c projects\pointer_pa\p14_avg_numbers.c
+	<stdio.h>
+
